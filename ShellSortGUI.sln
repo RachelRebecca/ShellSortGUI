@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShellSortGUI", "ShellSortGUI.csproj", "{5020F50F-C22A-43AC-955C-FF71256AB625}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShellSortGeneric", "..\ShellSortGeneric\ShellSortGeneric.csproj", "{F11EEBF8-669E-4C91-8163-884891932643}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5020F50F-C22A-43AC-955C-FF71256AB625}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5020F50F-C22A-43AC-955C-FF71256AB625}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5020F50F-C22A-43AC-955C-FF71256AB625}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5020F50F-C22A-43AC-955C-FF71256AB625}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F11EEBF8-669E-4C91-8163-884891932643}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F11EEBF8-669E-4C91-8163-884891932643}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F11EEBF8-669E-4C91-8163-884891932643}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F11EEBF8-669E-4C91-8163-884891932643}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1238606-303B-47BE-945D-428DFA169CC2}
+	EndGlobalSection
+EndGlobal
